@@ -1,3 +1,7 @@
+## Extra info from me, the person who is learning Next.js from this course. If you want to take a look at my notes, they are availabe here
+[Notes](https://docs.google.com/document/d/1hQJUNX0kCVXoHFyQrdx3BYWDNU6JDkWodViYGhpgJys/edit?usp=sharing)
+
+
 # Next.js: Creating and Hosting a Full-Stack Site
 This is the repository for the LinkedIn Learning course `Next.js: Creating and Hosting a Full-Stack Site`. The full course is available from [LinkedIn Learning][lil-course-url].
 
