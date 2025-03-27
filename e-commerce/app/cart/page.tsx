@@ -5,7 +5,8 @@ import { products } from "../product-data";
 import Link from "next/link";
 
 export default function CartPage() {
-  const [cartIds, setCartIds] = useState(["123", "345"]);
+  //atm we are deleting [cartIds, setCartIds] because we are not using it and we get TypeScript Error.
+  const [cartIds] = useState(["123", "345"]);
 
   const cartProducts = cartIds.map((id) => products.find((p) => p.id === id)!);
   return (
